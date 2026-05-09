@@ -1,0 +1,103 @@
+
+S28 split 2 values and more
+
+
+Check my videos to see how the values are like
+Tiktok-theyknoqhimari nickname is ꨄ†Himari†ꨄ
+
+Have any questions DM me on DC @theyknowhimati 
+
+In game setting 
+Turn on vibration and if you're on Playstation or PC turn on adaptive triggers 
+4-3 linner small dz
+Everything else default 
+No alc 
+For 110
+I play on Playstation with a doule senge edge by my friend is on x-box with a game sirge G7 pro so it should work for both 
+
+Zen setting 
+AA values 1,3 or 18,11 or 0,99 any works good
+
+Target enemy smg only every else is wall
+
+Pad rumble off 
+Game rumble on 
+Humaniz off
+
+2 touch Mosley for x-box I use it and I play on Playstation 
+
+Aim plus up D pad ar
+Aim plus down D pad smg
+Aim plus right D pad optic 
+Aim plus left D pad barrel 
+Aim plus what ever is your map reset 
+
+Stick drift 0-1
+
+Zen anti recoil x,y value note (X) is horizon and (Y) is vertical 
+
+R99 x,-35 y,45
+
+Havoc 1x x,-26 y,6
+2x x,-25 y,-11
+3x x,-15 y, -10 you may have to tweak it to your liking 
+4x x,20 y,10
+
+R301
+1x x, -21 y, -10
+2x x,-14 y, -4
+3x x, -3 y, -×5
+4x x, 2 y, -45
+
+Flatline 
+1x x, -18 y, 5
+2x x, 0 y, -6 
+3x x,2 y, -2
+4x x, 1 y, 15
+Volt
+1x x,0 y, -2
+
+Devo 
+1x x, 6 y, 4
+2x x, -5 y, 8
+3x x,3 y,1
+4x x,0 y,5
+
+Devo turbo
+1x x,1 y,2
+2x x,8 y,-4
+3x x,10 y, 3
+4x x, 5 y, -2
+
+altrntr x,2 y,0 
+
+Nemesis 
+
+1x x,0 y,0
+2x  x,5 y, 2
+3x x,5 y, 0
+4x x, 0 y, 0
+
+Re45 
+1x  x,0 y,0 
+
+Prowler 
+1x X,2 y, -5
+
+Spitefire 
+1x x,0 y,0
+2x x, 0  y, 0
+3x x, 5  y,-2
+4x x, 0  y, 0
+
+New Hemlock 
+1x x -26 y -18 
+2x x -13 y -4
+3x x -59 y 40
+4x x 30 y 0
+
+Volt
+1x x 0  y -2
+Or x2  y-2 
+
+Everything else x0 y0 or just ask me and I'll figure it out 
