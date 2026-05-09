@@ -1,0 +1,77 @@
+Wavepool’s Pred s29 values 4/3 linear no dz 
+
+R99 
+1x v38 h60
+
+Volt 
+1x v44 h11 
+
+Car 
+1x v41 h51
+
+
+Prowler auto 
+1x v30 h52
+
+
+Alternator 
+1x v39 h29
+
+Re45 v32 h0
+
+R301
+1x v-10 h0
+2x v12  h11
+3x v6 h3
+4x v45 h66
+
+
+Flatline 
+1x v1 h3
+2x v33 h18
+3x v42 h17
+4x v72 h30
+
+
+Nemesis 
+1x v0 h0
+2x v7 h1
+3x v19 h7
+4x v27 h11
+
+
+Hemlock 
+1x v26 h0
+2x v1 h0
+3x v7 h7
+4x v17 h13
+
+
+Lstar 
+2x v30 h9
+
+
+Havoc 
+1x v34 h8
+2x v27 h13
+3x v71 h27
+4x v82 h33
+
+
+Devo t
+1x v39 h13
+2x v30 h10 
+3x v37 h17 
+4x v63 h0
+:grinning:
+Kliknutím reaguj
+:heart:
+Kliknutím reaguj
+:joy:
+Kliknutím reaguj
+Přidat reakci
+Odpovědět
+Přeposlat
+Více
+[0:08]neděle 10. května 2026 0:08
+Enjoy!
