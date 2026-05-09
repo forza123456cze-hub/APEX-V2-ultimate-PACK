@@ -1,0 +1,150 @@
+APEX PRED S27 VALUES,
+IN GAME SETTINGS 
+:orngarrow: 4-3 LINEAR SMALL/NO DZ
+:orngarrow: 110 FOV
+:orngarrow: ALCS ALL TURNED DOWN TO THE LOWEST THEN TURNED OFF ! MUST TURN OFF TARGET COMP
+:orngarrow: PER OPTICS NEED TO BE RESET THEN TURNED OFF!
+outer threshold for people without a gamesir MIGHT want to do 2% instead of 1% & stick drift set to 0 or 1
+
+IN ZEN SETTINGS
+:orngarrow: 4-3 LINEAR SMALL/NO DZ (Try both see which one you like most)
+:orngarrow: AIM ASSIST = ON 1/3 OR 18/11
+:orngarrow: EASY MODS ARE YOUR CHOICE I ONLY USE SUPERGLIDE AND BUNNY HOP.
+:orngarrow: FOR XBOX YOU USE TWO TOUCH PLEASE SET UP TO YOUR LIKING OBVIOUSLY PS OR PC YOU NEED TO USE AUTO DETECT.
+:orngarrow: TARGET = WALL OR ENEMY SMGS ONLY TRY IT OUT TO SEE WHATS BEST FOR YOU
+:grinning:
+Kliknutím reaguj
+:heart:
+Kliknutím reaguj
+:joy:
+Kliknutím reaguj
+Přidat reakci
+Odpovědět
+Přeposlat
+Více
+
+3
+Přidat reakci
+
+Sledovat
+Přidej tento příspěvek do svého seznamu kanálů a dostávej o něm oznámení.
+Kopírovat odkaz
+
+VixnleMember
+APP
+Autor původního příspěvku — 05.02.2026 5:36čtvrtek 5. února 2026 5:36
+R301
+    •    1x: V -13 / H -20
+    •    2x: V -14 / H -4
+    •    3x: V 35 / H -1
+    •    4x: V 2 / H -46
+
+⸻
+
+FLATLINE
+    •    1x: V -8 / H 2
+    •    2x: V -4 / H 19
+    •    3x: V -11 / H 5
+    •    4x: V 8 / H 4
+
+⸻
+
+NEMESIS
+    •    1x: V -7 / H -2
+    •    2x: V 0 / H 10
+    •    3x: V 0 / H 14
+    •    4x: V 2 / H 6
+
+⸻
+
+SPITFIRE
+    •    1x: V -25 / H 20
+    •    2x: V -10 / H 11
+    •    3x: V 8 / H 15
+    •    4x: V 11 / H 3
+
+⸻
+
+G7 / 30-30
+    •    1x: V -13 / H 5
+    •    2x: V 5 / H -8
+    •    3x: V 10 / H -17
+    •    4x: V 45 / H -70
+
+⸻
+
+HEMLOK
+    •    1x: V -10 / H -5
+    •    2x: V 18 / H 12
+    •    3x: V 40 / H 2
+    •    4x: V 18 / H 1
+
+⸻
+
+L-STAR
+    •    1x: V -12 / H 0
+    •    2x: V -4 / H 0
+    •    3x: V 10 / H -10
+    •    4x: V 75 / H 35
+
+⸻
+
+HAVOC (TURBOCHARGED)
+    •    1x: V -14 / H 17
+    •    2x: V 15 / H 0
+    •    3x: V -10 / H 0
+    •    4x: V 10 / H 0
+
+⸻
+
+DEVOTION
+    •    1x: V -20 / H -22
+    •    2x: V -15 / H -27
+    •    3x: V -15 / H 12
+    •    4x: V 10 / H 25
+
+⸻
+
+RAMPAGE (THERMITE)
+    •    1x: V -20 / H -1
+    •    2x: V -10 / H -2
+    •    3x: V 0 / H 4
+    •    4x: V 5 / H 1
+
+⸻
+
+DEVOTION (TURBO)
+    •    1x: V -20 / H 15
+    •    2x: V 5 / H 38
+    •    3x: V 30 / H 35
+    •    4x: V 60 / H 1
+
+⸻
+
+R99
+    •    1x: V -15 / H 29
+
+⸻
+
+VOLT
+    •    1x: V -25 / H 0
+
+⸻
+
+CAR
+    •    1x: V -13 / H 6
+
+⸻
+
+PROWLER
+    •    1x: V -15 / H -10
+
+⸻
+
+ALTERNATOR
+    •    1x: V -16 / H -5
+
+⸻
+
+RE-45
+    •    1x: V -18 / H 3
