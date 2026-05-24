@@ -1,5 +1,31 @@
 Wavepool’s Pred s29 values 4/3 linear no dz 
 
+not anymore i think it has something to do with 2 touch now?
+
+UPDATED S29:
+2 Touch Rework:( We completely overhauled the 2 Touch mod, keeping the original mechanism while adding a wide range of new options )
+Added all optic variants: X1, X2, X3, X4,
+Added all barrel variants: N, W, B, P,
+Added all weapons: R-301, Flatline, R99...,
+You can now choose which options to use — assigning buttons is no longer required for every single entry.,
+Press PS/XBOX button to reset an assigned button,
+Default buttons are pre-assigned out of the box,
+The 2 Touch mod can no longer be disabled,
+New assignable buttons: Share, Options (PS/XBOX button cannot be assigned),
+Re-added single weapon reset (as in S27 and earlier),
+,
+Added Prowler Auto,
+Moved Alternator D below Alternator in the weapon list,
+Improved anti-recoil for Alternator D, L-STAR, and Hemlok,
+Removed: Weapon menu (the 2 Touch mod is now the only way to select weapons),
+Removed: Mantle Boost (removed as it provided no real advantage given how easy the mechanic already is in-game),
+General script cleanup: reduced CPU usage and optimized memory space in preparation for major upcoming updates,
+Added "Connect Controller" message in the button and sensitivity selection screens,
+Split anti-recoil values per Deadzone: previously all deadzones shared the same values, often requiring a compromise. Each deadzone now has its own dedicated values, enabling more precise anti-recoil in future updates,
+Improved R-99 anti-recoil using the new method
+
+
+
 R99 
 1x v38 h60
 
@@ -64,14 +90,3 @@ Devo t
 3x v37 h17 
 4x v63 h0
 :grinning:
-Kliknutím reaguj
-:heart:
-Kliknutím reaguj
-:joy:
-Kliknutím reaguj
-Přidat reakci
-Odpovědět
-Přeposlat
-Více
-[0:08]neděle 10. května 2026 0:08
-Enjoy!

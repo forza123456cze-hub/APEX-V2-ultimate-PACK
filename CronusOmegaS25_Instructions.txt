@@ -1,0 +1,124 @@
+Step 1: (Putting the Script on the Zen)
+
+	-After downloading he script open zen studios
+
+	-Go to the Compiler tab, click file in the top left, click open, and open the CronusOmegaS25 Script
+
+	-Go to the Programmer tab, click the icon with the three line on the left panel, drag and drop the script to 	the first available tab on the zen, then hit the Play/Start Icon on the left panel
+
+	-Go over to the Device tab
+		
+		XBOX:
+			-Make sure you dont have the PS4 or PC support boxes check (the two at the bottom), and make 			and make sure your output is set as xbox.
+
+		PS4/PS5:
+
+			-Make sure you check the PS4 specialty box at the bottom (the top box) and make sure your 			output is set to PS4/PS5 depending on your console
+
+		PC:
+
+			-Make sure you check the PC support box at the bottom (the very bottom box) and make sure 			output is set to the controller you are using. 
+
+Step 2: Setting up the script
+
+	-When the script first launches you will be prompted to hold buttons on your controller that matches with 	the action on the screen (Jump, sprint, melee, ect). When the script launches you then can start setting 	up your settings.
+
+		- L2+Start for PS or LT+Start for Xbox Opens and closes the weapon menu
+			-In the weapon menu you selec your gun, barrel, and optic.
+
+				-Up Dpad changes your Assault rifle
+
+				-Down Dpad changes your SMG
+
+				-Left Dpad changes your Barrel
+
+				-Right Dpad changes your Optic
+
+		- L2+PS button for PS5 or LT+Xbox button for xbox opens and closes your script settings menu. 
+
+
+Weapon Detection for PS5/PS5 Controller only:
+
+	PS5:
+
+		-For auto detection make sure that in your console settings your vibration and adaptive triggers 
+		are set to Strong. Also make sure you are on the PS5 version of the game, if you are on the PS4
+		version the weapon detection will not work.
+
+	PC:
+		
+		-For auto detection make sure you disable steam input.
+
+
+
+	PS5/PC: 
+
+		-In your game settings on Apex, under the controller the controller the controller tab make sure 
+		you adaptive triggers are on, and vibration are set to default. 
+
+		-Then open your zen script settings 
+		by clicking L2+PS button and navigate to the tab that says settings. Find "Game Rumble" and turn 		it on, then turn "Deapon Detection" to "always", then set your "Weapon AI" to "PS5".
+
+		-If your weapon detection it not working, unplug and replug in your zen.
+
+
+Anti Recoil:
+
+	-Open the script setting menu, and find the alc option. leave it off, but go inside of it and set your 	sens and response curve to match your in game settings. If your recoil is pulling up or down go back to 	the "Settings" tab and turn your "Target" to "walls" or "enemy" and see which one works best.
+
+Recommended Mods:
+
+	-Zip Jump, this can be found in the easy mods section. When on, you can preform easy super jumps on 	ziplines. Normally you have to interact wiht the zipline and double jump really fast immidiently. With     
+	this, you interact with the zipline and hit the jump button once and you super jump
+
+	-Superglide, i recommend finding the setting that says "Press L3", and click inside of it and select your 	from rate (60fps or 120 fps). with this instead of hitting jump and crouch together at the top of a mantle 	you, you hit L3 and its much more accurate.
+
+	-Armor swap, i recommend setting the "Press Left" option to armor swap. When you kill someone and go up to 	their death box if you it left on the dpad it will quick armor swap for you. You have to make sure your 
+	menu cursor speed is the correct speed in order to do this. With this on you will have to hold, not press,
+	left on the dpad to switch fire mods.
+
+	-Aim Assit, the aim assist is different for everyone and it depends on your response curve. I recommend
+	setting all of the values on aim assist to 8, and if it does not work turn them all up by 1 until it does. 
+	If your screen shakes too much, turn all the valus down by 1 until its perfect.
+
+
+Common Issues:
+
+	Recoil not working:
+		
+		-If your on PS5 and your auto weapon detection is on but is not working your recoil wont work 
+		as well
+
+		-If your recoil pulls down or up too much, set the "Target" in the script settings to "walls" or 
+		"enemy" and see which one works best.
+
+	Weapon Detection:
+
+		-If you adaptive triggers option is greyed out, then you need to set your controller button 			settings to one of the default options. You cannot use custom layout.
+
+		- If you have no adaptive trigger option, then you are on the PS4 version of the game. you need 
+		to uninstall this and install the PS5 version.
+
+		-If are on PS5 go to the console settings and make sure your controller vibration and triggers
+		are set to strong.
+
+		-If your on PC disable steam input and restart the game.
+
+		-If you do these settings and they dont work, unplug and replug in the zen.
+
+		-If these dont work turn all fo the weapon detection settings off (weapon detection, game rumble, 
+		weapon Ai, vibration in game, adaptive triggers in game) then restart your zen. Turn all of the
+		settings back on, then restart your zen and it should work.
+
+		-MAKE SURE YOU CONFIGURE THE DEVICE TAB IN ZEN STUDIOS CORRECTLY, if it is set up incorrectly
+		then nothing will work due to the zen not picking up the signals from your controller correctly
+
+		-On your zen deselect all scripts, then shoot your gun. If you cannot feel the vibration with 
+		no script selected then when you have the script selected the zens not picking up on the vibration
+		either. It relys on teh vibration for the weapon detection. i recommend reconfiguring your zen 
+		and starting these instruction over again.
+
+For more support contact me on telegram or instagram @CronusOmega
+
+
+ 	
