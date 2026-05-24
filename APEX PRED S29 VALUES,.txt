@@ -1,0 +1,219 @@
+Pred s29 values 
+In game settings 
+4-3 linear small 
+None r2 button dz 
+Adaptive trigger on 
+No alc turn all of !!!
+Target comp on 
+Vibration on 
+110 fov 
+ 
+Zen settings 
+4-3 linear small 
+Target enemy smg only 
+AA 5-35 ( or 1-3 ) (or 11-18)
+
+R-301
+• 1x: V -46, H 28
+• 2x: V -11, H -35
+• 3x: V -3, H -25
+• 4x: V 10, H 50
+
+Havoc
+• 1x: V -34, H 56 | Hipfire O
+• 2x: V -24, H -11
+• 3x: V -15, H -10
+• 4x: V - H H30
+Set up for tubo still good without just takes more set up
+
+Nemesis
+• 1x: V-66, H 5 | Hipfire O
+• 2x: V -6, H 36
+3x: V-18, H6
+• 4x: V 5, H -28
+
+Flatline
+• 1x: V -30, H 76 | Hipfire -30
+• 2x: V -38, H -11
+• 3x: V -6, H 58
+• 4x: V 1, H 15
+
+Hemlock
+1x: V -26, H - 18 | hipfire O
+• 2x: V -67, H 44
+• 3x: V -59,H 40
+• 4x: V-35, H 15
+
+Smgs 
+
+R99
+-35 v OR -38v OR -45v
+x0
+HYP: 5
+
+VOLT.  
+v-30
+X0
+HYP: 2
+
+Car
+v-33
+X6
+HYP: -5
+
+PROWLER
+V-60
+X 0
+HYP: -20
+
+ALTERNATOR
+V-40
+x 0
+HYP: 0
+
+ALTERNATOR DT
+-55
+X 0
+HYP: -10
+
+RE45
+-45
+X 3
+HYP: -1 
+
+Lmgs
+
+DEVO (inconsistent seems randomized)
+-20
+-25
+-15 → → OR (-30,-50) FOR 2x -27
+-15
+12
+10
+25
+HYP: 10
+
+Spitfire
+* ﻿﻿1x: V -26, H 50 | Hipfire O
+* ﻿﻿2x: V 10, H -28
+* ﻿﻿3x: V 30, H -38
+* ﻿﻿4x: V 43, H 10
+
+RAMPAGE WITH THERMITE 
+-20
+-1
+-10
+-2
+4
+5
+1
+HYP: 10
+
+Devo turbo 
+-20
+15
+5
+38
+30
+35
+60
+1
+HYP: 12
+
+
+
+Marksman / sniper 
+
+G7/3030
+-13
+5
+-5s
+-13
+-16
+-20
+45
+-70
+HYP: 10
+
+
+
+
+
+
+
+
+
+
+SMG’s
+    •    R-99: V -6, H 26 | Hipfire 5
+    •    Volt: V -6, H 12 | Hipfire 5
+    •    CAR: V -6, H 35 | Hipfire 5
+
+    •  Re45 all 0
+
+    •    Alternator: V -16, H 8 | Hipfire 5
+    •    Alternator (Double Tap): V -36, H 3 | Hipfire 5
+
+Assault Rifles
+
+R-301
+    •    1x: V -46, H 28
+    •    2x: V -22, H -30
+    •    3x: V -3, H -26
+    •    4x: V -8, H -28
+
+Havoc
+    •    1x: V -6, H 6 | Hipfire 0
+    •    2x: V -1, H -11
+    •    3x: V 1, H -6
+    •    4x: V -3, H 15
+Set up for tubo still good without just takes more set up 
+
+Nemesis
+    •    1x: V -1, H 8 | Hipfire 0
+    •    2x: V -3, H 12
+    •    3x: V -18, H -30
+    •    4x: V 0, H 0
+
+LMG’s
+
+Spitfire
+    •    1x: V -26, H 50 | Hipfire 0
+    •    2x: V 10, H 28
+    •    3x: V 30, H -38
+    •    4x: V 43, H 10
+
+L-STAR
+    •    1x: V -36, H -14 | Hipfire 0
+    •    2x: V -38, H 30
+    •    3x: V -16, H 38
+    •    4x: V 10, H 26
+
+Flatline
+    •    1x: V -15, H 30 | Hipfire 0
+    •    2x: V -18, H -30
+    •    3x: V -15, H 10
+    •    4x: V 1, H 15
+
+Rampage
+    •    1x: V -35, H -4 | Hipfire -38
+    •    2x: V -15, H -8
+    •    3x: V -60, H -10
+    •    4x: V -30, H -3
+
+ New Hemlock
+•    1x: V 2, H 0 | hipfire 0
+•    2x: V 3, H 1
+•    3x: V -5,H 12
+•    4x: V 9, H 2
+
+•    Stick drift 3
+•    Aim assist left analog 5, radius aim 35
+•    Target enemy (smg only)
+•    4 3 linear small deadzone
+•    default alcs NO BLEED THROUGH,  turn off
+•    No per optic settings, turn off
+
+
+
+4-3 linar small deadzone
