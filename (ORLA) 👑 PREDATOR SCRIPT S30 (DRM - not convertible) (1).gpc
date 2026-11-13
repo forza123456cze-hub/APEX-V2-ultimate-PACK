@@ -1,0 +1,74 @@
+//discord.gg/orla
+//discord.gg/orla /$$$$$$ /$$$$$$$ /$$ /$$$$$$  discord.gg/orla
+//discord.gg/orla /$$__ $$| $$__ $$| $$ /$$__ $$ discord.gg/orla
+//discord.gg/orla | $$ \ $$| $$ \ $$| $$ | $$ \ $$ discord.gg/orla
+//discord.gg/orla | $$ | $$| $$$$$$$/| $$ | $$$$$$$$ discord.gg/orla
+//discord.gg/orla | $$ | $$| $$__ $$| $$ | $$__ $$ discord.gg/orla
+//discord.gg/orla | $$ | $$| $$ \ $$| $$ | $$ | $$ discord.gg/orla
+//discord.gg/orla | $$$$$$/| $$ | $$| $$$$$$$$| $$ | $$ discord.gg/orla
+//discord.gg/orla  \______/ |__/ |__/|________/|__/ |__/ discord.gg/orla
+//                  __ _ __  __       __
+//  | ] (_) | ]   / /  [ |
+//  .--.| |  __  .--. .---. .--. _ .--. .--.| |  .--./) .--./) / /  .--. _ .--. | |  ,--.
+/// /'\ ' | [ | ( (\] / /'\] / .'\ \ [ /'\] / /'\' | / /'\; / /'\; / //  .'\ \ [ /'\]| | '\ :
+//| \__/ | | |  '.'.  | \__.  | \__. | | | | \__/ |  _ \ \._// \ \._/// / | \__. | | | | | //
+// |   ,// '.__.;__][___][\__) )'.___.' '.__.' [___] '.__.;__](_).',__  .',__/  _/  '.__.' [___] [___]'-;__/
+//                             ( ( __))( ( __))
+
+//========================================================
+// posted by : 10MM  (@angeltowild)
+// user id   : 1429399292371669002
+// posted    : 2026-11-02 17:35:48 EST
+// channel   : #💥・apex
+// trace     : auyfrdnu19fu.64c3184f00
+// discord.gg/orla
+//========================================================
+//====================================================================
+//====================================================================
+//===                                                              ===
+//===   CONVERTED BY discord.gg/orla | orlazens.com                ===
+// build auyfrdnu19fu.64c3184f00
+//===   CONVERTED BY discord.gg/orla | orlazens.com                ===
+//===   CONVERTED BY discord.gg/orla | orlazens.com                ===
+//===                                                              ===
+//====================================================================
+//====================================================================
+
+// ---- znbk -> gpc conversion notes ----
+// slot name on device: PREDATOR SCRIPT S30
+// SLOT IS DRM-ENCRYPTED (Cronus Marketplace purchase).
+// entropy 7.997 bits/byte = ciphertext, not bytecode.
+// No source exists to recover. See the report below.
+// VERIFIED: compiles clean in the real Cronus compiler
+// -----------------------------------------
+
+// discord.gg/orla
+// ==== MARKETPLACE / DRM-PROTECTED SLOT - NOT DECOMPILABLE ====
+//
+// This slot was NOT saved by the script author. It is a Cronus
+// Marketplace purchase, and the device stores that class of content
+// ENCRYPTED. The backup carries the ciphertext only; the key stays on
+// build auyfrdnu19fu.64c3184f00
+// the Zen. There is no bytecode to read, no string table to match, and
+// therefore no GPC source to recover from this file - by anyone, not
+// just by this converter. A normal (author-saved) .znbk converts fine.
+//
+// measured evidence:
+//   slot index        : 0
+//   content name      : PREDATOR SCRIPT S30
+//   content type      : Gamepack
+//   payload size      : 64720 bytes
+//   payload sha256    : 7ea0662798f8a18ee208518ae3aca33a5182c3bd101ec1e7efc0dd5d46ceade7
+//   source serial     : unknown
+//   entropy           : 7.997 bits/byte (plaintext slots measure 5.2-5.9; 8.0 = ciphertext)
+//   recoverable strings: 0 (a plaintext slot yields 14-226)
+//
+// What DOES work: post a .znbk saved from the Scripts tab of a script
+// you loaded yourself. Those convert automatically.
+// =============================================================
+
+// discord.gg/orla
+main {
+    // no recoverable program - payload is encrypted, see notes above
+}
+// build auyfrdnu19fu.64c3184f00
